@@ -1,2 +1,2 @@
 # videogameJS
-Repo for a simple viideogame developed with JS and HTML.
+Repo for a simple videogame developed with JS and HTML.
